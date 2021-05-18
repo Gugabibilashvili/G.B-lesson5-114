@@ -1,9 +1,153 @@
+
+	
+/*header styles*/
 .logo {
 	display: inline-block;
+	margin-left:140px;
 }
 .navigation {
 	display: inline-block;
+	margin-left:119px;
+
 }
 .nav-li {
 	display: inline-block;
+	margin-right:20px;
+	color:#181C28;
+	font-size:16px; 
+	font-family: 'Poppins', sans-serif;
+}
+.header-wraper {
+	padding:30px;
+	position:fixed;
+	top: 0;
+	left: 0;
+	z-index:5;
+	background-color:#f3efee;
+	width:100%;
+ 
+}
+/*section1 styles*/
+.section1 {
+	margin-top:76px;
+}
+/*image styles*/
+.image {
+	width:1600px;
+}
+.text-image {
+	color:#FFFFFF;
+	font-size:22px;
+	position:absolute;
+	top:197px;
+	left:647px ;
+
+}
+.text-image1 {
+	color:#FFFFFF;
+	font-size:48px;
+	position:absolute;
+	top:224px;
+	left:700px;
+
+}
+.image-wraper {
+	position: relative;
+	width:1600px;
+}
+/*section#1*/
+.container {
+ width:1325px;
+ margin: 0 auto;
+}
+.popular-post {
+	font-size:22px;
+	color:#FF7A00;
+	font-family: 'Poppins', sans-serif;
+	margin-top:84px;
+	margin-bottom:81px;
+
+}
+.left-block {
+	display:inline-block;
+	width:636px;
+	margin-right:50px;
+}
+.right-block {
+	display:inline-block;
+	width:636px;
+}
+.head {
+	font-size:36px;
+	font-family: 'Playfair Display', serif;
+	color:#181C28;
+}
+.text {
+	font-size:16px;
+	font-family: 'Poppins', sans-serif;
+	color:#7B7B7B;
+}
+.box {
+
+	margin: 0 auto;
+	width:190px;
+
+	background-color:#FF7A00;
+
+}
+.load-more {
+	font-size:16px;
+	font-family: 'Poppins', sans-serif;
+	color:#FFFFFF;
+	padding-left:48px;
+	margin-bottom:158px;
+
+}
+.section {
+	width:100%;
+	background-color:#181C28;
+	height:266px;
+}
+/*footer*/
+.head1 {
+	font-size:22px;
+	color:#282828;
+	font-family: 'Poppins', sans-serif;
+}
+.footer {
+	color:#282828;
+	font-family: 'Poppins', sans-serif;
+	display:inline-block;
+
+}
+.fot1 {
+	font-size:16px;
+	padding:5px;
+}
+.footer2 {
+	margin-left:234px;
+	color:#282828;
+	font-family: 'Poppins', sans-serif;
+	display:inline-block;
+}
+.footer3 {
+	margin-left:234px;
+	color:#282828;
+	font-family: 'Poppins', sans-serif;
+	display:inline-block;
+}
+.div {
+	margin-top:82px;
+}
+.Copyright {
+	color:#A4A4A4;
+	font-size:16px;
+	margin-bottom:68px;
+}
+.footer4 {
+
+	margin-left:234px;
+	color:#282828;
+	font-family: 'Poppins', sans-serif;
+	display:inline-block;
 }
